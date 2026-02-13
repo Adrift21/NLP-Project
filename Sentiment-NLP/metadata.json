@@ -1,0 +1,6 @@
+
+{
+  "name": "SentimentPro NLP Analyzer",
+  "description": "An advanced sentiment analysis tool that classifies text reviews into positive, negative, or neutral categories using Google Gemini's powerful NLP capabilities. Features real-time analysis, bulk processing, and interactive data visualization.",
+  "requestFramePermissions": []
+}
